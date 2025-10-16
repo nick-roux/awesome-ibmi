@@ -11,6 +11,6 @@ A list of IBM i repositories
 * [IBM i Open Source Resources](https://github.com/IBM/ibmi-oss-resources) - Important resources for anyone interested in open source on IBM i
 * [IBM i Open Source Examples](https://github.com/IBM/ibmi-oss-examples) - This repository is a set of examples using open source tools on IBM i.
 
-* [IBM i Dotfiles](https://github.com/jbh/ibmi-dotfiles) - BM i Dotfiles is a command line tool used to create configuration files, otherwise known as dotfiles, in the home directory of your user on IBM i.
+* [IBM i Dotfiles](https://github.com/jbh/ibmi-dotfiles) - IBM i Dotfiles is a command line tool used to create configuration files, otherwise known as dotfiles, in the home directory of your user on IBM i.
 
 * [tn5250](https://github.com/tn5250/tn5250) - A 5250 terminal emulator
